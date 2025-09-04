@@ -18,6 +18,7 @@ def show_text():
 root = tk.Tk()
 root.title("Tkinterサンプルアプリ")
 
+
 root.geometry("400x200")
 
 
