@@ -1,0 +1,14 @@
+# Ruff
+.ruff_cache/
+
+# pytest
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+
+# black
+.black_cache/
+
+# pre-commit
+.pre-commit-cache/
