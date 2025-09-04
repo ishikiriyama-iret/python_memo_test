@@ -17,7 +17,10 @@ def show_text():
 # メインウィンドウ
 root = tk.Tk()
 root.title("Tkinterサンプルアプリ")
+
 root.geometry("400x200")
+
+
 root.resizable(True, True)
 
 # メインフレーム
